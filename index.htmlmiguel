@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> página de programação  </title>
+</head>
+<body>
+    <h1> MINHA PRIMEIRA PÁGINA </h1>
+    <H2>SOBRE MIM</H2>
+    <P>Olá! Meu nome é <b>miguel</b>. Esta é minha primeira página HTML. Estou aprndendo <b>desenvolvimento web</b> e isso é muito <mark>interessante.</mark></P>
+    <P>Eu gosto de tecnologia, programação e também de aprender coisas novas.
+    Este texto tem uma <small>parte escrita com fonte menor</small>
+    </P>
+    <H2>CURIOSIDADES</H2>
+    <P>Na ciência, fórmula da água é H<sub>2</sub>O </P>
+    <P> Em matemática, podemos ter expressões como x<sup>2</sup></P>
+    <H2>UM SITE INTERESSANTE</H2>
+    <p>Você pode aprender mais sobre HTML visitando o site <a href="https:/www.w3schools.com"target="blank">W3schools</a></p>
+      <h2>uma imagem</h2>
+      <p>a baixo está uma imagem de exemplo:</p>
+      <img src="https://www.w3c.br/wp-content/uploads/2010/09/Prancheta-1.pgn" alt="">
+      <hr>
+</body>
+</html> 
